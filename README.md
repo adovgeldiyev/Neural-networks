@@ -1,1 +1,2 @@
 # Neural-networks
+Neural networks focuses on the algorithms, implementation, and application of neural networks for learning about data. We learn how neural networks represent data and learn in supervised and unsupervised contexts with applications to language processing, classification, and regression problems. Topics include learning algorithms, and optimization methods, deep learning methods for deriving deep representations from surface features, recursive networks, Boltzmann machines and convolutional networks.<br>
